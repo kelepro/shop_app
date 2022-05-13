@@ -1,6 +1,6 @@
 # shop_app
 
-A new Flutter project.
+This project is under development. When I finish, I will upload all updates and some images.
 
 ## Getting Started
 
